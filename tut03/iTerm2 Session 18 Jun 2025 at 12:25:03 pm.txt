@@ -1,0 +1,233 @@
+Last login: Mon Jun 16 17:09:19 on ttys009 
+ _________________________________________  
+/ You can never trust a woman; she may be \ 
+\ true to you.                            / 
+ -----------------------------------------  
+        \   ^__^ 
+         \  (oo)\_______ 
+            (__)\       )\/\ 
+                ||----w | 
+                ||     || 
+ 
+~ ❯ clera                       2.6.0 
+zsh: command not found: clera 
+~ ❯ clear          2.6.0 
+~ ❯ tut                2.6.0 
+~/Doc/@/Un/COMP6843 25T1 ❯ cd ..                 2.6.0 
+~/Doc/@uni/Uni Tutoring ❯ ls          2.6.0 
+~$lloc application for 25T1.docx 
+2024 cybersec training module.png 
+COMP1511 23T2 
+COMP1521 23T3 
+COMP1521 24T1 
+COMP1521 24T2 
+COMP2041 25T2 
+COMP6843 25T1 
+Duty Statement - 522805.pdf 
+MyExperience 
+OFFER LETTER - Nicholas Langford.pdf 
+Talloc application for 24T1.docx 
+Talloc application for 24T2.docx 
+Talloc application for 24T3.docx 
+Talloc application for 25T1 - Recovered.docx 
+Talloc application for 25T1.docx 
+Talloc application for 25T2.docx 
+Time reporting codes.png 
+Tutoring intro activity.docx 
+~/Doc/@uni/Uni Tutoring ❯ cd COMP2041\ 25T2           2.6.0 
+~/Doc/@/Un/COMP2041 25T2 ❯ clear                      2.6.0 
+~/Doc/@/Un/COMP2041 25T2 ❯ ls                             2.6.0 
+OFFER LETTER - Nicholas Langford.pdf q4.txt 
+passwd                               q6.txt 
+passwords.txt                        tut02 
+~/Doc/@/Un/COMP2041 25T2 ❯ ls *.txt                       2.6.0 
+passwords.txt q4.txt        q6.txt 
+~/Doc/@/Un/COMP2041 25T2 ❯ ls passwords.txt q4.txt q6.txt           2.6.0 
+passwords.txt q4.txt        q6.txt 
+~/Doc/@/Un/COMP2041 25T2 ❯ pwd                                     2.6.0 
+/Users/nicholas/Documents/@uni/Uni Tutoring/COMP2041 25T2 
+~/Doc/@/Un/COMP2041 25T2 ❯ echo ~/Documents          2.6.0 
+/Users/nicholas/Documents 
+~/Doc/@/Un/COMP2041 25T2 ❯ echo $(pwd)               2.6.0 
+/Users/nicholas/Documents/@uni/Uni Tutoring/COMP2041 25T2 
+~/Doc/@/Un/COMP2041 25T2 ❯ clear                         2.6.0 
+~/Doc/@/Un/COMP2041 25T2 ❯ mkdir q1                      2.6.0 
+~/Doc/@/Un/COMP2041 25T2 ❯ echo "file a" > a             2.6.0 
+~/Doc/@/Un/COMP2041 25T2 ❯ echo "file b" > b             2.6.0 
+~/Doc/@/Un/COMP2041 25T2 ❯ echo "file c" > c             2.6.0 
+~/Doc/@/Un/COMP2041 25T2 ❯ mv a b c q1                   2.6.0 
+~/Doc/@/Un/COMP2041 25T2 ❯ cd q1                         2.6.0 
+~/Doc/@/Un/COMP2/q1 ❯ ls                                 2.6.0 
+a b c 
+~/Doc/@/Un/COMP2/q1 ❯ clear       2.6.0 
+~/Doc/@/Un/COMP2/q1 ❯ ls          2.6.0 
+a b c 
+~/Doc/@/Un/COMP2/q1 ❯ echo a   b   c 
+a b c 
+~/Doc/@/Un/COMP2/q1 ❯ echo "a   b   c" 
+a   b   c 
+~/Doc/@/Un/COMP2/q1 ❯ x=2  y='Y Y'  z=ls 
+~/Doc/@/Un/COMP2/q1 ❯ echo $doesnt_exist               2.6.0 
+ 
+~/Doc/@/Un/COMP2/q1 ❯ echo $x                          2.6.0 
+2 
+~/Doc/@/Un/COMP2/q1 ❯ echo $y                          2.6.0 
+Y Y 
+~/Doc/@/Un/COMP2/q1 ❯ echo x$x                         2.6.0 
+x2 
+~/Doc/@/Un/COMP2/q1 ❯ echo $xx                         2.6.0 
+ 
+~/Doc/@/Un/COMP2/q1 ❯ echo ${x}x                       2.6.0 
+2x 
+~/Doc/@/Un/COMP2/q1 ❯ echo "$Y"                        2.6.0 
+ 
+~/Doc/@/Un/COMP2/q1 ❯ echo "$y"                        2.6.0 
+Y Y 
+~/Doc/@/Un/COMP2/q1 ❯ echo '$y'                        2.6.0 
+$y 
+~/Doc/@/Un/COMP2/q1 ❯ echo '$y']                       2.6.0 
+$y] 
+~/Doc/@/Un/COMP2/q1 ❯ echo "\$x"                       2.6.0 
+$x 
+~/Doc/@/Un/COMP2/q1 ❯ echo "\$y"                       2.6.0 
+ 10 #!/usr/bin/env python3 
+$y 
+~/Doc/@/Un/COMP2/q1 ❯ echo '$y'                        2.6.0 
+$y 
+~/Doc/@/Un/COMP2/q1 ❯ echo $y                          2.6.0 
+Y Y 
+~/Doc/@/Un/COMP2/q1 ❯ y2='Y         Y'                 2.6.0 
+~/Doc/@/Un/COMP2/q1 ❯ echo $y2                         2.6.0 
+Y         Y 
+~/Doc/@/Un/COMP2/q1 ❯ y2=Y           Y                 2.6.0 
+zsh: command not found: Y 
+~/Doc/@/Un/COMP2/q1 ❯ touch 'hello world.txt'          2.6.0 
+~/Doc/@/Un/COMP2/q1 ❯ mv hello world.txt               2.6.0 
+mv: rename hello to world.txt: No such file or directory 
+~/Doc/@/Un/COMP2/q1 ❯ mv hello world.txt goodbye.txt   2.6.0 
+mv: goodbye.txt is not a directory 
+~/Doc/@/Un/COMP2/q1 ❯ mv 'hello world.txt' goodbye.txt 
+~/Doc/@/Un/COMP2/q1 ❯ $y                               2.6.0 
+zsh: command not found: Y Y 
+~/Doc/@/Un/COMP2/q1 ❯ echo $($y)                       2.6.0 
+zsh: command not found: Y Y 
+ 
+~/Doc/@/Un/COMP2/q1 ❯ echo $z                          2.6.0 
+ls 
+~/Doc/@/Un/COMP2/q1 ❯ echo $($z)                       2.6.0 
+a b c goodbye.txt 
+~/Doc/@/Un/COMP2/q1 ❯ echo $(echo a b c)               2.6.0 
+a b c 
+~/Doc/@/Un/COMP2/q1 ❯ echo `echo a b c`                2.6.0 
+a b c 
+~/Doc/@/Un/COMP2/q1 ❯ echo $(echo $(echo a b c))       2.6.0 
+a b c 
+~/Doc/@/Un/COMP2/q1 ❯ vim args                         2.6.0 
+~/Doc/@/Un/COMP2/q1 ❯ chmod u+x args               6s  2.6.0 
+~/Doc/@/Un/COMP2/q1 ❯ ./args                           2.6.0 
+#args = 0 
+~/Doc/@/Un/COMP2/q1 ❯ clear                            2.6.0 
+~/Doc/@/Un/COMP2/q1 ❯ ./args a b c                     2.6.0 
+#args = 3 
+arg[1] = "a" 
+arg[2] = "b" 
+arg[3] = "c" 
+~/Doc/@/Un/COMP2/q1 ❯ ./args 'a b c'                   2.6.0 
+#args = 1 
+arg[1] = "a b c" 
+~/Doc/@/Un/COMP2/q1 ❯ ./args "a b c"                   2.6.0 
+#args = 1 
+arg[1] = "a b c" 
+~/Doc/@/Un/COMP2/q1 ❯ ./args x y   z                   2.6.0 
+#args = 3 
+arg[1] = "x" 
+arg[2] = "y" 
+arg[3] = "z" 
+~/Doc/@/Un/COMP2/q1 ❯ ./args $(ls)                     2.6.0 
+#args = 5 
+arg[1] = "a" 
+arg[2] = "args" 
+arg[3] = "b" 
+arg[4] = "c" 
+arg[5] = "goodbye.txt" 
+~/Doc/@/Un/COMP2/q1 ❯ ls                               2.6.0 
+a           args        b           c           goodbye.txt 
+~/Doc/@/Un/COMP2/q1 ❯ echo $y                          2.6.0 
+Y Y 
+~/Doc/@/Un/COMP2/q1 ❯ ./args $y                        2.6.0 
+#args = 1 
+arg[1] = "Y Y" 
+~/Doc/@/Un/COMP2/q1 ❯ sh                               2.6.0 
+sh-3.2$ clear 
+sh-3.2$ ls 
+a		b		goodbye.txt 
+args		c 
+sh-3.2$ echo $y 
+ 
+sh-3.2$ x=2  y='Y Y'  z=ls 
+sh-3.2$ echo $y 
+Y Y 
+sh-3.2$ ./args $y 
+#args = 2 
+arg[1] = "Y" 
+arg[2] = "Y" 
+sh-3.2$ ./args "$y" 
+#args = 1 
+arg[1] = "Y Y" 
+sh-3.2$ /args $(echo "$y") 
+sh: /args: No such file or directory 
+sh-3.2$ ./args $(echo "$y") 
+#args = 2 
+arg[1] = "Y" 
+arg[2] = "Y" 
+sh-3.2$ ./args "$(echo "$y")" 
+#args = 1 
+arg[1] = "Y Y" 
+sh-3.2$ ./args '$(echo "$y")' 
+#args = 1 
+arg[1] = "$(echo "$y")" 
+sh-3.2$ ./args $x$x$x 
+#args = 1 
+arg[1] = "222" 
+sh-3.2$ x$=2 
+sh: x$=2: command not found 
+sh-3.2$ ./args $x$y 
+#args = 2 
+arg[1] = "2Y" 
+arg[2] = "Y" 
+sh-3.2$ ./args $xy 
+#args = 0 
+sh-3.2$ ./args "$xy" 
+#args = 1 
+arg[1] = "" 
+sh-3.2$ exit 
+exit 
+~/Doc/@/Un/COMP2/q1 ❯ clear                    6m 22s  2.6.0 
+~/Doc/@/Un/COMP2/q1 ❯ echo $PATH                       2.6.0 
+/Users/nicholas/.rvm/gems/ruby-2.6.0/bin:/Users/nicholas/.rvm/gems/ruby-2.6.0@global/bin:/Users/nicholas/.rvm/rubies/ruby-2.6.0/bin:/opt/homebrew/opt/llvm/bin:/Users/nicholas/.cabal/bin:/Users/nicholas/.ghcup/bin:/Users/nicholas/google-cloud-sdk/bin:/Users/nicholas/Library/Python/3.11/bin:/Users/nicholas/Library/Caches/fnm_multishells/54199_1750121338061/bin:/Users/nicholas/Library/Application Support/fnm:/usr/local/opt/python/libexec/bin:/opt/homebrew/bin:/Users/nicholas/bin:/usr/local/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Library/Apple/usr/bin:/Library/TeX/texbin:/Applications/Wireshark.app/Contents/MacOS:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Applications/Xamarin Workbooks.app/Contents/SharedSupport/path-bin:/Users/nicholas/.cargo/bin:/Applications/iTerm.app/Contents/Resources/utilities:/Users/nicholas/.local/bin:/Users/nicholas/npm/bin:/Users/nicholas/.rvm/bin:/Users/nicholas/go/bin:/Users/nicholas/.local/bin:/Users/nicholas/Documents/AAA Uni/_Year 2/Term 1/COMP2041/2041-ass1:/opt/gradle/gradle-8.5/bin 
+~/Doc/@/Un/COMP2/q1 ❯ clear                            2.6.0 
+~/Doc/@/Un/COMP2/q1 ❯ echo $y                            2.6.0 
+Y Y 
+ ~/Doc/@/Un/COMP2/q1 ❯ echo $Y                          2.6.0 
+ 
+ ~/Doc/@/Un/COMP2/q1 ❯ echo $y2                         2.6.0 
+Y         Y 
+ ~/Doc/@/Un/COMP2/q1 ❯ ./args $y                        2.6.0 
+#args = 1 
+arg[1] = "Y Y" 
+ ~/Doc/@/Un/COMP2/q1 ❯ dash                             2.6.0 
+$ ^C 
+$ exit 
+ ~/Doc/@/Un/COMP2/q1 ❯ s                      ✘ INT 4s  2.6.0 
+zsh: command not found: s 
+ ~/Doc/@/Un/COMP2/q1 ❯ s                                2.6.0 
+zsh: command not found: s 
+ ~/Doc/@/Un/COMP2/q1 ❯ sh                               2.6.0 
+sh-3.2$ echo $y 
+ 
+sh-3.2$ y='Y Y' 
+sh-3.2$ ./args $y 
+#args = 2 
+arg[1] = "Y" 
+arg[2] = "Y" 
+sh-3.2$  

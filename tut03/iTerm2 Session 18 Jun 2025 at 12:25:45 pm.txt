@@ -1,0 +1,233 @@
+[17/06/2025, 10:49:45] Last login: Mon Jun 16 17:09:19 on ttys009 
+[17/06/2025, 10:49:45]  _________________________________________  
+[17/06/2025, 10:49:45] / You can never trust a woman; she may be \ 
+[17/06/2025, 10:49:45] \ true to you.                            / 
+[17/06/2025, 10:49:45]  -----------------------------------------  
+[17/06/2025, 10:49:45]         \   ^__^ 
+[17/06/2025, 10:49:45]          \  (oo)\_______ 
+[17/06/2025, 10:49:45]             (__)\       )\/\ 
+[17/06/2025, 10:49:45]                 ||----w | 
+[17/06/2025, 10:49:45]                 ||     || 
+[17/06/2025, 10:49:45]  
+[17/06/2025, 10:49:45] ~ ❯ clera              [17/06/2025, 10:49:45]          2.6.0 
+[17/06/2025, 10:49:45] zsh: command not found: clera 
+[17/06/2025, 10:49:45] ~ ❯ clear [17/06/2025, 10:49:45]          2.6.0 
+[17/06/2025, 11:10:25] ~ ❯ tut       [17/06/2025, 11:10:25]          2.6.0 
+[17/06/2025, 11:10:25] ~/Doc/@/Un/COMP6843 25T1 ❯ cd ..        [17/06/2025, 11:10:25]          2.6.0 
+[17/06/2025, 11:10:25] ~/Doc/@uni/Uni Tutoring ❯ ls [17/06/2025, 11:10:25]          2.6.0 
+[17/06/2025, 11:10:25] ~$lloc application for 25T1.docx 
+[17/06/2025, 11:10:25] 2024 cybersec training module.png 
+[17/06/2025, 11:10:25] COMP1511 23T2 
+[17/06/2025, 11:10:25] COMP1521 23T3 
+[17/06/2025, 11:10:25] COMP1521 24T1 
+[17/06/2025, 11:10:25] COMP1521 24T2 
+[17/06/2025, 11:10:25] COMP2041 25T2 
+[17/06/2025, 11:10:25] COMP6843 25T1 
+[17/06/2025, 11:10:25] Duty Statement - 522805.pdf 
+[17/06/2025, 11:10:25] MyExperience 
+[17/06/2025, 11:10:25] OFFER LETTER - Nicholas Langford.pdf 
+[17/06/2025, 11:10:25] Talloc application for 24T1.docx 
+[17/06/2025, 11:10:25] Talloc application for 24T2.docx 
+[17/06/2025, 11:10:25] Talloc application for 24T3.docx 
+[17/06/2025, 11:10:25] Talloc application for 25T1 - Recovered.docx 
+[17/06/2025, 11:10:25] Talloc application for 25T1.docx 
+[17/06/2025, 11:10:25] Talloc application for 25T2.docx 
+[17/06/2025, 11:10:25] Time reporting codes.png 
+[17/06/2025, 11:10:25] Tutoring intro activity.docx 
+[17/06/2025, 11:10:25] ~/Doc/@uni/Uni Tutoring ❯ cd COMP2041\ 25T2  [17/06/2025, 11:10:25]          2.6.0 
+[17/06/2025, 11:10:25] ~/Doc/@/Un/COMP2041 25T2 ❯ clear             [17/06/2025, 11:10:25]          2.6.0 
+[17/06/2025, 11:16:02] ~/Doc/@/Un/COMP2041 25T2 ❯ ls                    [17/06/2025, 11:16:02]          2.6.0 
+[17/06/2025, 11:16:02] OFFER LETTER - Nicholas Langford.pdf q4.txt 
+[17/06/2025, 11:16:02] passwd                               q6.txt 
+[17/06/2025, 11:16:02] passwords.txt                        tut02 
+[17/06/2025, 11:16:02] ~/Doc/@/Un/COMP2041 25T2 ❯ ls *.txt              [17/06/2025, 11:16:02]          2.6.0 
+[17/06/2025, 11:16:02] passwords.txt q4.txt        q6.txt 
+[17/06/2025, 11:16:02] ~/Doc/@/Un/COMP2041 25T2 ❯ ls passwords.txt q4.txt q6.txt  [17/06/2025, 11:16:02]          2.6.0 
+[17/06/2025, 11:16:02] passwords.txt q4.txt        q6.txt 
+[17/06/2025, 11:16:02] ~/Doc/@/Un/COMP2041 25T2 ❯ pwd                            [17/06/2025, 11:16:02]          2.6.0 
+[17/06/2025, 11:16:02] /Users/nicholas/Documents/@uni/Uni Tutoring/COMP2041 25T2 
+[17/06/2025, 11:16:02] ~/Doc/@/Un/COMP2041 25T2 ❯ echo ~/Documents [17/06/2025, 11:16:02]          2.6.0 
+[17/06/2025, 11:16:02] /Users/nicholas/Documents 
+[17/06/2025, 11:16:02] ~/Doc/@/Un/COMP2041 25T2 ❯ echo $(pwd)      [17/06/2025, 11:16:02]          2.6.0 
+[17/06/2025, 11:16:02] /Users/nicholas/Documents/@uni/Uni Tutoring/COMP2041 25T2 
+[17/06/2025, 11:17:04] ~/Doc/@/Un/COMP2041 25T2 ❯ clear                         2.6.0 
+[17/06/2025, 11:17:04] ~/Doc/@/Un/COMP2041 25T2 ❯ mkdir q1                      2.6.0 
+[17/06/2025, 11:17:04] ~/Doc/@/Un/COMP2041 25T2 ❯ echo "file a" > a             2.6.0 
+[17/06/2025, 11:17:04] ~/Doc/@/Un/COMP2041 25T2 ❯ echo "file b" > b             2.6.0 
+[17/06/2025, 11:17:04] ~/Doc/@/Un/COMP2041 25T2 ❯ echo "file c" > c             2.6.0 
+[17/06/2025, 11:17:04] ~/Doc/@/Un/COMP2041 25T2 ❯ mv a b c q1                   2.6.0 
+[17/06/2025, 11:17:04] ~/Doc/@/Un/COMP2041 25T2 ❯ cd q1                         2.6.0 
+[17/06/2025, 11:17:04] ~/Doc/@/Un/COMP2/q1 ❯ ls                                 2.6.0 
+[17/06/2025, 11:17:04] a b c 
+[17/06/2025, 11:17:04] ~/Doc/@/Un/COMP2/q1 ❯ clear       2.6.0 
+[17/06/2025, 11:17:08] ~/Doc/@/Un/COMP2/q1 ❯ ls          2.6.0 
+[17/06/2025, 11:17:08] a b c 
+[17/06/2025, 11:17:13] ~/Doc/@/Un/COMP2/q1 ❯ echo a   b   c 
+[17/06/2025, 11:17:13] a b c 
+[17/06/2025, 11:18:05] ~/Doc/@/Un/COMP2/q1 ❯ echo "a   b   c" 
+[17/06/2025, 11:18:07] a   b   c 
+[17/06/2025, 11:18:22] ~/Doc/@/Un/COMP2/q1 ❯ x=2  y='Y Y'  z=ls 
+[17/06/2025, 11:18:55] ~/Doc/@/Un/COMP2/q1 ❯ echo $doesnt_exist               2.6.0 
+[17/06/2025, 11:18:25]  
+[17/06/2025, 11:19:09] ~/Doc/@/Un/COMP2/q1 ❯ echo $x                          2.6.0 
+[17/06/2025, 11:19:19] 2 
+[17/06/2025, 11:19:49] ~/Doc/@/Un/COMP2/q1 ❯ echo $y                          2.6.0 
+[17/06/2025, 11:19:50] Y Y 
+[17/06/2025, 11:20:25] ~/Doc/@/Un/COMP2/q1 ❯ echo x$x                         2.6.0 
+[17/06/2025, 11:20:26] x2 
+[17/06/2025, 11:20:52] ~/Doc/@/Un/COMP2/q1 ❯ echo $xx                         2.6.0 
+[17/06/2025, 11:20:26]  
+[17/06/2025, 11:21:17] ~/Doc/@/Un/COMP2/q1 ❯ echo ${x}x                       2.6.0 
+[17/06/2025, 11:21:23] 2x 
+[17/06/2025, 11:21:47] ~/Doc/@/Un/COMP2/q1 ❯ echo "$Y"                        2.6.0 
+[17/06/2025, 11:21:24]  
+[17/06/2025, 11:21:56] ~/Doc/@/Un/COMP2/q1 ❯ echo "$y"                        2.6.0 
+[17/06/2025, 11:21:56] Y Y 
+[17/06/2025, 11:22:06] ~/Doc/@/Un/COMP2/q1 ❯ echo '$y'                        2.6.0 
+[17/06/2025, 11:22:32] $y 
+[17/06/2025, 11:23:20] ~/Doc/@/Un/COMP2/q1 ❯ echo '$y']                       2.6.0 
+[17/06/2025, 11:23:21] $y] 
+[17/06/2025, 11:23:28] ~/Doc/@/Un/COMP2/q1 ❯ echo "\$x"                       2.6.0 
+[17/06/2025, 11:23:33] $x 
+[17/06/2025, 11:23:36] ~/Doc/@/Un/COMP2/q1 ❯ echo "\$y"                       2.6.0 
+[17/06/2025, 11:31:29]  10 #!/usr/bin/env python3 
+[17/06/2025, 11:23:36] $y 
+[17/06/2025, 11:23:42] ~/Doc/@/Un/COMP2/q1 ❯ echo '$y'                        2.6.0 
+[17/06/2025, 11:23:42] $y 
+[17/06/2025, 11:24:01] ~/Doc/@/Un/COMP2/q1 ❯ echo $y                          2.6.0 
+[17/06/2025, 11:32:08] Y Y 
+[17/06/2025, 11:32:08] ~/Doc/@/Un/COMP2/q1 ❯ y2='Y         Y'                 2.6.0 
+[17/06/2025, 11:32:08] ~/Doc/@/Un/COMP2/q1 ❯ echo $y2                         2.6.0 
+[17/06/2025, 11:32:08] Y         Y 
+[17/06/2025, 11:32:08] ~/Doc/@/Un/COMP2/q1 ❯ y2=Y           Y                 2.6.0 
+[17/06/2025, 11:32:08] zsh: command not found: Y 
+[17/06/2025, 11:32:08] ~/Doc/@/Un/COMP2/q1 ❯ touch 'hello world.txt'          2.6.0 
+[17/06/2025, 11:32:08] ~/Doc/@/Un/COMP2/q1 ❯ mv hello world.txt               2.6.0 
+[17/06/2025, 11:32:08] mv: rename hello to world.txt: No such file or directory 
+[17/06/2025, 11:32:08] ~/Doc/@/Un/COMP2/q1 ❯ mv hello world.txt goodbye.txt   2.6.0 
+[17/06/2025, 11:32:08] mv: goodbye.txt is not a directory 
+[17/06/2025, 11:32:08] ~/Doc/@/Un/COMP2/q1 ❯ mv 'hello world.txt' goodbye.txt 
+[17/06/2025, 11:32:08] ~/Doc/@/Un/COMP2/q1 ❯ $y                               2.6.0 
+[17/06/2025, 11:32:08] zsh: command not found: Y Y 
+[17/06/2025, 11:32:08] ~/Doc/@/Un/COMP2/q1 ❯ echo $($y)                       2.6.0 
+[17/06/2025, 11:32:08] zsh: command not found: Y Y 
+[17/06/2025, 11:32:08]  
+[17/06/2025, 11:32:08] ~/Doc/@/Un/COMP2/q1 ❯ echo $z                          2.6.0 
+[17/06/2025, 11:32:08] ls 
+[17/06/2025, 11:32:08] ~/Doc/@/Un/COMP2/q1 ❯ echo $($z)                       2.6.0 
+[17/06/2025, 11:32:08] a b c goodbye.txt 
+[17/06/2025, 11:32:08] ~/Doc/@/Un/COMP2/q1 ❯ echo $(echo a b c)               2.6.0 
+[17/06/2025, 11:32:08] a b c 
+[17/06/2025, 11:32:08] ~/Doc/@/Un/COMP2/q1 ❯ echo `echo a b c`                2.6.0 
+[17/06/2025, 11:32:08] a b c 
+[17/06/2025, 11:32:08] ~/Doc/@/Un/COMP2/q1 ❯ echo $(echo $(echo a b c))       2.6.0 
+[17/06/2025, 11:32:08] a b c 
+[17/06/2025, 11:32:08] ~/Doc/@/Un/COMP2/q1 ❯ vim args                         2.6.0 
+[17/06/2025, 11:32:08] ~/Doc/@/Un/COMP2/q1 ❯ chmod u+x args               6s  2.6.0 
+[17/06/2025, 11:32:08] ~/Doc/@/Un/COMP2/q1 ❯ ./args                           2.6.0 
+[17/06/2025, 11:32:08] #args = 0 
+[17/06/2025, 11:32:08] ~/Doc/@/Un/COMP2/q1 ❯ clear                            2.6.0 
+[17/06/2025, 11:35:30] ~/Doc/@/Un/COMP2/q1 ❯ ./args a b c                     2.6.0 
+[17/06/2025, 11:35:30] #args = 3 
+[17/06/2025, 11:35:30] arg[1] = "a" 
+[17/06/2025, 11:35:30] arg[2] = "b" 
+[17/06/2025, 11:35:30] arg[3] = "c" 
+[17/06/2025, 11:35:30] ~/Doc/@/Un/COMP2/q1 ❯ ./args 'a b c'                   2.6.0 
+[17/06/2025, 11:35:30] #args = 1 
+[17/06/2025, 11:35:30] arg[1] = "a b c" 
+[17/06/2025, 11:35:30] ~/Doc/@/Un/COMP2/q1 ❯ ./args "a b c"                   2.6.0 
+[17/06/2025, 11:35:30] #args = 1 
+[17/06/2025, 11:35:30] arg[1] = "a b c" 
+[17/06/2025, 11:35:30] ~/Doc/@/Un/COMP2/q1 ❯ ./args x y   z                   2.6.0 
+[17/06/2025, 11:35:30] #args = 3 
+[17/06/2025, 11:35:30] arg[1] = "x" 
+[17/06/2025, 11:35:30] arg[2] = "y" 
+[17/06/2025, 11:35:30] arg[3] = "z" 
+[17/06/2025, 11:35:30] ~/Doc/@/Un/COMP2/q1 ❯ ./args $(ls)                     2.6.0 
+[17/06/2025, 11:35:30] #args = 5 
+[17/06/2025, 11:35:30] arg[1] = "a" 
+[17/06/2025, 11:35:30] arg[2] = "args" 
+[17/06/2025, 11:35:30] arg[3] = "b" 
+[17/06/2025, 11:35:30] arg[4] = "c" 
+[17/06/2025, 11:35:30] arg[5] = "goodbye.txt" 
+[17/06/2025, 11:35:30] ~/Doc/@/Un/COMP2/q1 ❯ ls                               2.6.0 
+[17/06/2025, 11:35:30] a           args        b           c           goodbye.txt 
+[17/06/2025, 11:35:30] ~/Doc/@/Un/COMP2/q1 ❯ echo $y                          2.6.0 
+[17/06/2025, 11:35:30] Y Y 
+[17/06/2025, 11:35:30] ~/Doc/@/Un/COMP2/q1 ❯ ./args $y                        2.6.0 
+[17/06/2025, 11:35:30] #args = 1 
+[17/06/2025, 11:35:30] arg[1] = "Y Y" 
+[17/06/2025, 11:35:30] ~/Doc/@/Un/COMP2/q1 ❯ sh                               2.6.0 
+[17/06/2025, 11:35:30] sh-3.2$ clear 
+[17/06/2025, 11:35:38] sh-3.2$ ls 
+[17/06/2025, 11:35:38] a		b		goodbye.txt 
+[17/06/2025, 11:35:38] args		c 
+[17/06/2025, 11:35:42] sh-3.2$ echo $y 
+[17/06/2025, 11:35:30]  
+[17/06/2025, 11:35:49] sh-3.2$ x=2  y='Y Y'  z=ls 
+[17/06/2025, 11:35:51] sh-3.2$ echo $y 
+[17/06/2025, 11:35:51] Y Y 
+[17/06/2025, 11:35:56] sh-3.2$ ./args $y 
+[17/06/2025, 11:35:56] #args = 2 
+[17/06/2025, 11:35:56] arg[1] = "Y" 
+[17/06/2025, 11:35:56] arg[2] = "Y" 
+[17/06/2025, 11:41:51] sh-3.2$ ./args "$y" 
+[17/06/2025, 11:41:51] #args = 1 
+[17/06/2025, 11:41:51] arg[1] = "Y Y" 
+[17/06/2025, 11:41:51] sh-3.2$ /args $(echo "$y") 
+[17/06/2025, 11:41:51] sh: /args: No such file or directory 
+[17/06/2025, 11:41:51] sh-3.2$ ./args $(echo "$y") 
+[17/06/2025, 11:41:51] #args = 2 
+[17/06/2025, 11:41:51] arg[1] = "Y" 
+[17/06/2025, 11:41:51] arg[2] = "Y" 
+[17/06/2025, 11:41:51] sh-3.2$ ./args "$(echo "$y")" 
+[17/06/2025, 11:41:51] #args = 1 
+[17/06/2025, 11:41:51] arg[1] = "Y Y" 
+[17/06/2025, 11:41:51] sh-3.2$ ./args '$(echo "$y")' 
+[17/06/2025, 11:41:51] #args = 1 
+[17/06/2025, 11:41:51] arg[1] = "$(echo "$y")" 
+[17/06/2025, 11:41:51] sh-3.2$ ./args $x$x$x 
+[17/06/2025, 11:41:51] #args = 1 
+[17/06/2025, 11:41:51] arg[1] = "222" 
+[17/06/2025, 11:41:51] sh-3.2$ x$=2 
+[17/06/2025, 11:41:51] sh: x$=2: command not found 
+[17/06/2025, 11:41:51] sh-3.2$ ./args $x$y 
+[17/06/2025, 11:41:51] #args = 2 
+[17/06/2025, 11:41:51] arg[1] = "2Y" 
+[17/06/2025, 11:41:51] arg[2] = "Y" 
+[17/06/2025, 11:41:51] sh-3.2$ ./args $xy 
+[17/06/2025, 11:41:51] #args = 0 
+[17/06/2025, 11:41:51] sh-3.2$ ./args "$xy" 
+[17/06/2025, 11:41:51] #args = 1 
+[17/06/2025, 11:41:51] arg[1] = "" 
+[17/06/2025, 11:41:51] sh-3.2$ exit 
+[17/06/2025, 11:41:51] exit 
+[17/06/2025, 11:41:51] ~/Doc/@/Un/COMP2/q1 ❯ clear                    6m 22s  2.6.0 
+[17/06/2025, 11:43:32] ~/Doc/@/Un/COMP2/q1 ❯ echo $PATH                       2.6.0 
+[17/06/2025, 11:43:32] /Users/nicholas/.rvm/gems/ruby-2.6.0/bin:/Users/nicholas/.rvm/ge[17/06/2025, 11:43:32] ms/ruby-2.6.0@global/bin:/Users/nicholas/.rvm/rubies/ruby-2.6.0/[17/06/2025, 11:43:32] bin:/opt/homebrew/opt/llvm/bin:/Users/nicholas/.cabal/bin:/Users[17/06/2025, 11:43:32] /nicholas/.ghcup/bin:/Users/nicholas/google-cloud-sdk/bin:/Users[17/06/2025, 11:43:32] /nicholas/Library/Python/3.11/bin:/Users/nicholas/Library/Caches[17/06/2025, 11:43:32] /fnm_multishells/54199_1750121338061/bin:/Users/nicholas/Library[17/06/2025, 11:43:32] /Application Support/fnm:/usr/local/opt/python/libexec/bin:/opt/[17/06/2025, 11:43:32] homebrew/bin:/Users/nicholas/bin:/usr/local/bin:/opt/homebrew/bi[17/06/2025, 11:43:32] n:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bi[17/06/2025, 11:43:32] n:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryp[17/06/2025, 11:43:32] texd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.sec[17/06/2025, 11:43:32] urity.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple[17/06/2025, 11:43:32] .security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:[17/06/2025, 11:43:32] /Library/Apple/usr/bin:/Library/TeX/texbin:/Applications/Wiresha[17/06/2025, 11:43:32] rk.app/Contents/MacOS:/Library/Frameworks/Mono.framework/Version[17/06/2025, 11:43:32] s/Current/Commands:/Applications/Xamarin Workbooks.app/Contents/[17/06/2025, 11:43:32] SharedSupport/path-bin:/Users/nicholas/.cargo/bin:/Applications/[17/06/2025, 11:43:32] iTerm.app/Contents/Resources/utilities:/Users/nicholas/.local/bi[17/06/2025, 11:43:32] n:/Users/nicholas/npm/bin:/Users/nicholas/.rvm/bin:/Users/nichol[17/06/2025, 11:43:32] as/go/bin:/Users/nicholas/.local/bin:/Users/nicholas/Documents/A[17/06/2025, 11:43:32] AA Uni/_Year 2/Term 1/COMP2041/2041-ass1:/opt/gradle/gradle-8.5/[17/06/2025, 11:43:32] bin 
+[17/06/2025, 11:43:32] ~/Doc/@/Un/COMP2/q1 ❯ clear                            2.6.0 
+[17/06/2025, 14:49:29] ~/Doc/@/Un/COMP2/q1 ❯ echo $y                            2.6.0 
+[17/06/2025, 14:49:29] Y Y 
+[17/06/2025, 14:49:37]  ~/Doc/@/Un/COMP2/q1 ❯ echo $Y                          2.6.0 
+[17/06/2025, 14:49:29]  
+[17/06/2025, 14:49:41]  ~/Doc/@/Un/COMP2/q1 ❯ echo $y2                         2.6.0 
+[17/06/2025, 14:49:41] Y         Y 
+[17/06/2025, 14:49:53]  ~/Doc/@/Un/COMP2/q1 ❯ ./args $y                        2.6.0 
+[17/06/2025, 14:49:55] #args = 1 
+[17/06/2025, 14:49:55] arg[1] = "Y Y" 
+[17/06/2025, 14:50:05]  ~/Doc/@/Un/COMP2/q1 ❯ dash                             2.6.0 
+[17/06/2025, 14:50:08] $ ^C 
+[17/06/2025, 14:50:09] $ exit 
+[17/06/2025, 14:50:10]  ~/Doc/@/Un/COMP2/q1 ❯ s                      ✘ INT 4s  2.6.0 
+[17/06/2025, 14:50:10] zsh: command not found: s 
+[17/06/2025, 14:50:11]  ~/Doc/@/Un/COMP2/q1 ❯ s                                2.6.0 
+[17/06/2025, 14:50:11] zsh: command not found: s 
+[17/06/2025, 14:50:12]  ~/Doc/@/Un/COMP2/q1 ❯ sh                               2.6.0 
+[17/06/2025, 14:50:19] sh-3.2$ echo $y 
+[17/06/2025, 14:50:11]  
+[17/06/2025, 14:50:23] sh-3.2$ y='Y Y' 
+[17/06/2025, 14:50:28] sh-3.2$ ./args $y 
+[17/06/2025, 14:50:28] #args = 2 
+[17/06/2025, 14:50:28] arg[1] = "Y" 
+[17/06/2025, 14:50:28] arg[2] = "Y" 
+[18/06/2025, 12:22:58] sh-3.2$  
