@@ -1,5 +1,11 @@
 #! /usr/bin/env dash
 
+# COMP2041 25T2, T11A
+# Tutorial 5, Q6
+#
+# "Write a shell script extract.sh that, when given one or more archive files as
+# command line arguments, will use the correct program to extract the files."
+
 if [ $# -eq 0 ]; then
     echo "Usage: $0 <file> [<file> ...]"
     exit 2;
